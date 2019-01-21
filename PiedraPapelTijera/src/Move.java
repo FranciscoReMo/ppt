@@ -1,7 +1,3 @@
-/**
- * Class that stores a move
- */
- 
 public class Move{
 
     private String move;
